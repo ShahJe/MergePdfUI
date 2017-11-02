@@ -8,3 +8,5 @@ Second step is to download MergePDF.exe file and follow instructions from https:
 Third step is to download this tool and place it in same folder as of MergePDF.exe file.
 
 Hope you will find this tool helpful.
+
+Moved from https://mergepdfui.codeplex.com/
